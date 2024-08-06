@@ -49,4 +49,4 @@ npm run dev
 http://localhost:3000
 ```
 
-Desenvolvido com ♥ por `https://github.com/seu-usuario/studio-ghibli.git` e `[Marcus](https://github.com/silvamaarcus)`
+Desenvolvido por [Marcus](https://github.com/silvamaarcus)
